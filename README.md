@@ -1,10 +1,4 @@
 
-<!-- README visual e interativo com as melhores sugestões (notas B+ ou superiores) -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Especialista+em+IA+e+Automação;Marketing%2C+Backoffice+e+Bots" />
-</p>
-
 <h1 align="center">👋 Olá, eu sou Marcos V. Mulinari!</h1>
 <p align="center">
   Desenvolvedor de software. Moro em Manaus - AM 🇧🇷<br>
@@ -46,14 +40,6 @@
 
 ---
 
-### 🏆 GitHub Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marcos934&theme=radical&no-frame=true&row=1&margin-w=10" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -63,32 +49,9 @@
 
 ---
 
-### 🐍 Snake Contribution
-
-<p align="center">
-  <img src="https://github.com/Marcos934/Marcos934/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 🎧 Spotify (atual)
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
-</p>
-
----
-
-### 📅 WakaTime Weekly Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ### 🔗 Contato e Redes Sociais
 
-<p align="left">
+<p align="center">
   <a href="https://www.instagram.com/marcosmulinarii/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:marcos.mulinari97@gmail.com"><img src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://wa.me/5592991461245" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
