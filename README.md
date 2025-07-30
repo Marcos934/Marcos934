@@ -1,14 +1,13 @@
-
 <h1 align="center">👋 Olá, eu sou Marcos V. Mulinari!</h1>
 <p align="center">
   Desenvolvedor de software. Moro em Manaus - AM 🇧🇷<br>
-  Comecei a programar entre <strong>2010 e 2011</strong>, com 14 anos, brincando com mapas de <strong>Warcraft 3</strong>. Foi meu primeiro contato com lógica de programação. Desde então, não parei... Começando com <strong>C</strong>, depois <strong>Java</strong> e etc...
+  Comecei a programar entre <strong>2010 e 2011</strong>, com 14 anos, brincando com mapas de <strong>Warcraft 3</strong>. Foi meu primeiro contato com lógica de programação. Desde então, não parei... Começando com <strong>C</strong>, depois <strong>Java</strong>, <strong>Python</strong> e etc...
 </p>
 
 ---
 
 ### 💡 Sobre mim
-- 📘 Bacharel em Ciência da Computação
+- 📘 Graduado em Ciência da Computação
 - 🧠 Especialista em <strong>Inteligência Artificial aplicada</strong> a negócios e automações
 - 🛠️ Domínio prático em ferramentas como <strong>n8n</strong>, <strong>Make (Integromat)</strong>, <strong>PyAutoGUI/OpenCV</strong>
 - 💻 Experiência sólida com desenvolvimento fullstack (PHP, Java, Spring Boot, Angular, Vue.js, React)
@@ -16,6 +15,14 @@
 - 🧲 Experiência prática na integração entre tecnologia, marketing e performance
 - 🚀 Foco total em soluções escaláveis para empresas que buscam automação e produtividade
 - 🔒 Alguns projetos desenvolvidos não estão presentes neste GitHub devido a contratos de confidencialidade (NDA)
+- 👨‍💻 Tenho histórico no desenvolvimento de sistemas completos — desde o setup inicial do repositório até a entrega ao cliente final, com foco em robustez e funcionalidade.
+
+---
+
+### 🧠 Experiência Profissional Relevante
+- 🏢 Atuei como Analista de Sistemas Jr na FPF Tech (2021–2022), contribuindo para soluções de painéis administrativos em Angular/AngularJS para empresas como Claro, TIM, Bezeq e Deutsche Telekom.
+- 🔐 Já desenvolvi bots de automação em Python com PyAutoGUI e OpenCV, incluindo soluções para captcha e automações complexas.
+- 🧱 Experiência com refatorações de sistemas legados, incluindo migração de frameworks e implementação de novas funcionalidades para portais corporativos.
 
 ---
 
@@ -36,6 +43,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
   <img src="https://www.svgrepo.com/show/354355/slim.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" />
 </p>
 
 ---
