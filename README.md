@@ -53,8 +53,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcos934&show_icons=true&theme=radical&hide_rank=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos934&layout=compact&theme=radical" height="165" />
+  <img src="./github-metrics.svg" alt="Estatísticas do GitHub de Marcos934" />
 </p>
 
 ---
